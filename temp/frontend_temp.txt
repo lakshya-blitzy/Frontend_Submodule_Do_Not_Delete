@@ -1,0 +1,5 @@
+Cisco IOS XE — CVE-2023-20198
+What it is
+Privilege escalation via unauthenticated web UI endpoint. Reachable only from inside the service mesh.
+Remediation
+Apply Cisco advisory patch.
